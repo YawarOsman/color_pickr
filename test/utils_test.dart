@@ -1,6 +1,6 @@
 import 'dart:ui' show Color;
 import 'package:flutter_test/flutter_test.dart';
-import 'package:color_picker/color_picker.dart';
+import 'package:color_pickr/color_pickr.dart';
 
 void main() {
   group('Test colorFromHex:', () {
@@ -217,8 +217,8 @@ void main() {
       final String transparency = string.substring(4);
       test(
         'It should convert $color: to #${transparency + string} with hash',
-        () => expect(colorToHex(color, includeHashSign: true),
-            '#$transparency$string'),
+        () => expect(
+            colorToHex(color, includeHashSign: true), '#$transparency$string'),
       );
     });
 

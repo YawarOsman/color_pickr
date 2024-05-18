@@ -1,12 +1,12 @@
-# color_picker
+# color_pickr
 
-[![pub package](https://img.shields.io/pub/v/color_picker?include_prereleases.svg "Flutter Color Picker")](https://pub.dev/packages/color_picker)
-[![badge](https://img.shields.io/badge/%20built%20with-%20%E2%9D%A4-ff69b4.svg "build with love")](https://github.com/mchome/color_picker)
+[![pub package](https://img.shields.io/pub/v/color_pickr?include_prereleases.svg "Flutter Color Picker")](https://pub.dev/packages/color_pickr)
+[![badge](https://img.shields.io/badge/%20built%20with-%20%E2%9D%A4-ff69b4.svg "build with love")](https://github.com/mchome/color_pickr)
 
 HSV(HSB)/HSL/RGB/Material color picker inspired by all the good design for your amazing flutter apps.  
 Adorable color pickers out of the box with highly customized widgets to all developers' needs.
 
-[Web Example](https://mchome.github.io/color_picker)
+[Web Example](https://mchome.github.io/color_pickr)
 
 ## Getting Started
 
@@ -71,4 +71,4 @@ showDialog(
 <!-- markdownlint-disable MD033 -->
 <img src="https://user-images.githubusercontent.com/7392658/141606774-8193f4ee-e40d-49fc-b081-261c72325bf8.png">
 
-Details in [example](https://github.com/mchome/color_picker/tree/master/example) folder.
+Details in [example](https://github.com/mchome/color_pickr/tree/master/example) folder.

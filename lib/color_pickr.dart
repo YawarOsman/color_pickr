@@ -1,4 +1,4 @@
-library color_picker;
+library color_pickr;
 
 export 'src/colorpicker.dart';
 export 'src/material_picker.dart';

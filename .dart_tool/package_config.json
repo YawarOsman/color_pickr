@@ -158,13 +158,13 @@
       "languageVersion": "3.3"
     },
     {
-      "name": "color_picker",
+      "name": "color_pickr",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     }
   ],
-  "generated": "2024-05-18T11:19:37.452977Z",
+  "generated": "2024-05-18T11:54:37.532124Z",
   "generator": "pub",
   "generatorVersion": "3.4.0",
   "flutterRoot": "file:///Users/yara/Development/flutter",

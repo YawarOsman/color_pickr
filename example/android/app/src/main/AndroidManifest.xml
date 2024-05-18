@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.example">
    <application
-        android:label="color_picker example"
+        android:label="color_pickr example"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart' show CupertinoTextField;
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:color_picker/color_picker.dart';
+import 'package:color_pickr/color_pickr.dart';
 
 // Just an example of how to use/interpret/format text input's result.
 void copyToClipboard(String input) {

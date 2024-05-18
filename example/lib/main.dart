@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:color_picker/color_picker.dart';
+import 'package:color_pickr/color_pickr.dart';
 import './pickers/hsv_picker.dart';
 import './pickers/material_picker.dart';
 import './pickers/block_picker.dart';

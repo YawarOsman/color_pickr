@@ -1,1 +1,1 @@
-# color_picker example project
+# color_pickr example project

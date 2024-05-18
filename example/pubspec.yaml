@@ -1,5 +1,5 @@
-name: color_picker_example
-description: A color_picker example Flutter project.
+name: color_pickr_example
+description: A color_pickr example Flutter project.
 version: 1.0.0+1
 
 publish_to: none
@@ -7,7 +7,7 @@ publish_to: none
 dependencies:
   flutter:
     sdk: flutter
-  color_picker:
+  color_pickr:
     path: ../
 
 dev_dependencies:
