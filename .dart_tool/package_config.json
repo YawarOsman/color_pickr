@@ -164,10 +164,10 @@
       "languageVersion": "3.3"
     }
   ],
-  "generated": "2024-05-18T11:55:09.655503Z",
+  "generated": "2024-06-18T11:53:18.171325Z",
   "generator": "pub",
-  "generatorVersion": "3.4.0",
+  "generatorVersion": "3.4.1",
   "flutterRoot": "file:///Users/yara/Development/flutter",
-  "flutterVersion": "3.22.0",
+  "flutterVersion": "3.22.1",
   "pubCache": "file:///Users/yara/.pub-cache"
 }
